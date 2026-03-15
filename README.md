@@ -22,3 +22,6 @@ make build-i486
 
 ## Things to work on
 - suggestions
+
+## Also see
+Codeberg https://codeberg.org/D1SH/Dish
